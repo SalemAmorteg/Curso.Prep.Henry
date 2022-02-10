@@ -1,0 +1,13 @@
+	* Variables: Usados para guardar datos. Funciona como una caja donde podemos guardar objetos, textos, numeros y demas información 
+    y en dado caso, que se necesite hacer uso de esta información, podemos sacarla de la variable.
+
+	* Strings: Es un tipo de dato que esta conformado unicamente por texto. Se usa cuando queremos entregar un mensaje de texto.
+
+	* Funciones (argumentos, `return`) Es una orden que creamos cuando necesitamos usarla en repetidas ocasiones para evitar la creación 
+    por separado. Teniendo una funcion creada, podemos llamarla las veces que deseemos y se ejecutará siempre de la misma manera.
+    Las funciones están conformadas por el nombre de la función y el argumento de la función el cual se comporta como una variable dentro
+    de la función ya que luego le daremos un significado. Usamos "return" para ejecutar una función.
+
+	* Declaraciones `if` Es un tipo de orden que nos permite condicionar el resultado.
+
+	* Valores booleanos (`true`, `false`) Se usa cuando queremos obtener una respuesta especifica unicamente si el resultado es verdadero o falso.
